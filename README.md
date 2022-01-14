@@ -15,3 +15,5 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 # store_mobile_app
+
+<img src="https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif?1547582922">
